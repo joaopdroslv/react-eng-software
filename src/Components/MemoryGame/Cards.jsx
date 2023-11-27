@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Card from "./Card";
+import "./Cards.css";
 
 function Cards() {
   const [items, setItems] = useState(
