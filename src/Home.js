@@ -11,7 +11,7 @@ export default function Home() {
             <Link to="/Atv01">Letreiro (Atividade 01)</Link>
           </li>
           <li>
-            <Link to="/Atv02">Relógio (Atividade 02) 02</Link>
+            <Link to="/Atv02">Relógio (Atividade 02)</Link>
           </li>
           <li>
             <Link to="/Atv03">Atividade 03 (NÃO REALIZADA)</Link>
