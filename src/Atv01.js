@@ -5,6 +5,7 @@ export default function Atv01() {
     <div>
       <h1>Relógio</h1>
       <Link to="/">Home page</Link>
+      <Watch />
     </div>
   );
 }
