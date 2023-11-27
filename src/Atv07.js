@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Link to="/">Home page</Link>
-      <h1>Memory Game</h1>
+      <h1>Jogo da Memória</h1>
       <Cards />
     </div>
   );
