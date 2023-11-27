@@ -56,7 +56,7 @@ export default function Calculator() {
   }
 
   return (
-    <div className="container">
+    <div className="calculator-container">
       <h1 className="result">{num}</h1>
       <button onClick={clear}>AC</button>
       <button onClick={changePosNeg}>+/-</button>
