@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Calculator from "./Components/Calculator/Calculator";
+import Calculator from "./Components/Calculator/Calculator.jsx";
 
 export default function Atv06() {
   return (
