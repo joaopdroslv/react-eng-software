@@ -1,0 +1,40 @@
+.container {
+  background-color: black;
+  border-radius: 1em;
+  width: 400px;
+  height: 600px;
+  margin-top: 20px;
+  padding: 1em;
+}
+
+.result {
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin: 1em;
+  font-size: 3em;
+}
+
+button {
+  width: 3em;
+  height: 3em;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 2em;
+  margin: 0.3em;
+  cursor: pointer;
+}
+
+.button-zero {
+  width: 6.5em;
+}
+
+.orange-button {
+  background-color: #ff9500;
+  color: white;
+}
+
+.gray-button {
+  background-color: #505050;
+  color: white;
+}
