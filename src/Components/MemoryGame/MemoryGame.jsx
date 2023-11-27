@@ -25,7 +25,7 @@ function Cards() {
   );
   const [previous, setPrevious] = useState(-1);
 
-  function check(current) {
+  function checkClicked(current) {
     if (items[current].id == items[previous].id) {
       items[current].state = "correct";
       items[previous].state = "correct";
@@ -50,7 +50,7 @@ function Cards() {
       setItems([...items]);
       setPrevious(id);
     } else {
-      check(id);
+      checkClicked(id);
     }
   }
 
