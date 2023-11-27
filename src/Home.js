@@ -23,7 +23,7 @@ export default function Home() {
             <Link to="/Atv05">Atividade 05 (NÃO REALIZADA)</Link>
           </li>
           <li>
-            <Link to="/Atv06">Calculadora IOS</Link>
+            <Link to="/Atv06">Calculadora IOS (Atividade 06)</Link>
           </li>
           <li>
             <Link to="/Atv07">Jogo da Memória (Atividade 07)</Link>
