@@ -8,25 +8,19 @@ export default function Home() {
       <nav>
         <ul>
           <li>
-            <Link to="/Atv01">Relógio (Atividade 01)</Link>
+            <Link to="/Atv01">Relógio e Letreiro (Atividade 01)</Link>
           </li>
           <li>
-            <Link to="/Atv02">Letreiro (Atividade 02)</Link>
+            <Link to="/Atv02">NÃO REALIZADA! (Atividade 02)</Link>
           </li>
           <li>
-            <Link to="/Atv03">Atividade 03 (NÃO REALIZADA)</Link>
+            <Link to="/Atv03">NÃO REALIZADA! (Atividade 03)</Link>
           </li>
           <li>
-            <Link to="/Atv04">Atividade 04 (NÃO REALIZADA)</Link>
+            <Link to="/Atv04">Calculadora IOS (Atividade 04)</Link>
           </li>
           <li>
-            <Link to="/Atv05">Atividade 05 (NÃO REALIZADA)</Link>
-          </li>
-          <li>
-            <Link to="/Atv06">Calculadora IOS (Atividade 06)</Link>
-          </li>
-          <li>
-            <Link to="/Atv07">Jogo da Memória (Atividade 07)</Link>
+            <Link to="/Atv05">Jogo da Memória (Atividade 05)</Link>
           </li>
         </ul>
       </nav>

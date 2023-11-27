@@ -1,10 +1,12 @@
 import { Link } from "react-router-dom";
+import Calculator from "./Components/Calculator/Calculator.jsx";
 
-export default function Atv04() {
+export default function Atv06() {
   return (
     <div>
-      <h1>Atividade 04</h1>
       <Link to="/">Home page</Link>
+      <h1>Calculadora</h1>
+      <Calculator />
     </div>
   );
 }

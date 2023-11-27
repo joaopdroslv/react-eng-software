@@ -1,10 +1,12 @@
 import { Link } from "react-router-dom";
+import MemoryGame from "./Components/MemoryGame/MemoryGame.jsx";
 
-export default function Atv05() {
+export default function Atv07() {
   return (
     <div>
-      <h1>Atividade 05</h1>
       <Link to="/">Home page</Link>
+      <h1>Jogo da Memória</h1>
+      <MemoryGame />
     </div>
   );
 }
