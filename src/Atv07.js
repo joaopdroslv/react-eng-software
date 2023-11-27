@@ -3,7 +3,7 @@ import Cards from "./Components/MemoryGame/Cards.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Link to="/">Home page</Link>
       <h1>Jogo da Memória</h1>
       <Cards />
