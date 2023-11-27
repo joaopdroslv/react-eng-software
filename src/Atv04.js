@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Atv01() {
+export default function Atv04() {
   return (
     <div>
       <h1>Atividade 04</h1>
